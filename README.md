@@ -73,10 +73,27 @@ When you’re bored or have nothing to do, download the Time Killer App! A produ
 * Settings -> Toggle settings
 
 ## Wireframes
-<img src="" width=800><br>
+<img src="![WhatsApp Image 2021-03-27 at 2 25 11 PM](https://user-images.githubusercontent.com/74428521/112730615-f225b580-8f08-11eb-988e-bc94df5d7294.jpeg)
+" width=800><br>
 
 ### [BONUS] Digital Wireframes & Mockups
-<img src="" height=200>
+<img src="![Screen Shot 2021-03-27 at 2 27 49 PM](https://user-images.githubusercontent.com/74428521/112730605-e3d79980-8f08-11eb-9924-50afa473427c.png)
+" height=200>
+<img src="![Screen Shot 2021-03-27 at 2 28 03 PM](https://user-images.githubusercontent.com/74428521/112730628-fa7df080-8f08-11eb-84e7-2ada075b03cc.png)
+" height=200>
+<img src="![Screen Shot 2021-03-27 at 2 31 56 PM](https://user-images.githubusercontent.com/74428521/112730659-36b15100-8f09-11eb-97a6-b2059c7da96b.png)
+" height=200>
+<img src="![Screen Shot 2021-03-27 at 2 28 26 PM](https://user-images.githubusercontent.com/74428521/112730671-403ab900-8f09-11eb-9386-74408e798083.png)
+" height=200>
+<img src="![Screen Shot 2021-03-27 at 2 29 06 PM](https://user-images.githubusercontent.com/74428521/112730678-46309a00-8f09-11eb-9682-7037e825c9c2.png)
+" height=200>
+<img src="![Screen Shot 2021-03-27 at 2 29 16 PM](https://user-images.githubusercontent.com/74428521/112730683-4af54e00-8f09-11eb-9733-be336ec02755.png)
+" height=200>
+<img src="![Screen Shot 2021-03-27 at 2 28 44 PM](https://user-images.githubusercontent.com/74428521/112730687-534d8900-8f09-11eb-94cc-3a83c4215fff.png)
+" height=200>
+<img src="![Screen Shot 2021-03-27 at 2 28 57 PM](https://user-images.githubusercontent.com/74428521/112730699-5b0d2d80-8f09-11eb-86a8-5c8f3a8a9e8a.png)
+" height=200>
+
 
 ### [BONUS] Interactive Prototype
-<img src="" width=200>
+<img src="http://g.recordit.co/Cj4wddRK4S.gif" width=200>
