@@ -79,4 +79,4 @@ When you’re bored or have nothing to do, download the Time Killer App! A produ
 <img src="" height=200>
 
 ### [BONUS] Interactive Prototype
-<img src="" width=200>
+<img src="http://g.recordit.co/Cj4wddRK4S.gif" width=200>
